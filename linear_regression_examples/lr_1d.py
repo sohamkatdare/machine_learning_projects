@@ -1,3 +1,6 @@
+#####################################
+#program to show 1D linear regression
+#####################################
 import numpy as np
 import matplotlib.pyplot as plt
 
